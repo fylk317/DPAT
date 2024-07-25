@@ -3,7 +3,7 @@
 This is the official implementation of the paper:
 
 **Decoupled Prompt-Adapter Tuning for Continual Activity Recognition**  
-[Di Fu], [Thanh Vinh Vo], [Haozhe Ma], [Tze-Yun Leong]
+[Di Fu](https://github.com/fylk317), [Thanh Vinh Vo], [Haozhe Ma], [Tze-Yun Leong]
 [arXiv Paper](https://arxiv.org/abs/2407.14811)
 
 ## Abstract
